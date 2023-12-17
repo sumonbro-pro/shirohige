@@ -158,8 +158,8 @@ a {
 }
 .angle-arrow {
     position: absolute;
-    right: 5vw;
-    bottom: 18vw;
+    right: -10vw;
+    bottom: 5vw;
 }
 .hero-right {
     position: relative;
